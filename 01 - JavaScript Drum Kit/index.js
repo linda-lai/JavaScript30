@@ -3,11 +3,11 @@
 // Using .play method to play audio file
 
 function playSound(event) {
-    // Creates a new audio variable to select audio using attribute selector
+    // Creates a new audio variable to select <audio> using attribute selector
     // String interpolation is used to dynamically check for keyCode whenever keydown event is triggered
     const audio = document.querySelector(`audio[data-key="${event.keyCode}"]`);
 
-    // Creates a new key variable to select div using attribute selector
+    // Creates a new key variable to select <div> using attribute selector
     // String interpolation is used to dynamically check for keyCode whenever keydown event is triggered
     const key = document.querySelector(`.key[data-key="${event.keyCode}"]`);
     

@@ -8,7 +8,7 @@ My workings through the JavaScript30 course by Wes Bos.
 ## Background
 Hi, hello and hey!
 
-This repository contains my workings through the ![JavaScript30](https://javascript30.com/) course by Wes Bos. I'm currently a student at Coder Academy completing a Diploma of Information Technology in a full-stack web development immersive bootcamp, learning JavaScript for the first time.
+This repository contains my workings through the [JavaScript30](https://javascript30.com/) course by Wes Bos. I'm currently a student at Coder Academy completing a Diploma of Information Technology in a full-stack web development immersive bootcamp, learning JavaScript for the first time.
 
 The contained projects are designed to build familiarity with the fundamentals of vanilla JavaScript and working in the DOM by building things - 30 things in fact, without frameworks, compilers, libraries or abtraction.
 
