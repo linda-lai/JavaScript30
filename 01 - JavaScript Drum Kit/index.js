@@ -1,5 +1,5 @@
-// Using Keyboard Event to listen for keydown (event is sent when key is first depressed)
-// Add Event Listener to listen for transitionend (event is fired when CSS transition has completed)
+// Using KeyboardEvent to listen for keydown (event is sent when key is first depressed)
+// Add EventListener to listen for transitionend (event is fired when CSS transition has completed)
 // Using .play method to play audio file
 
 function playSound(event) {
